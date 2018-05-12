@@ -1,0 +1,48 @@
+_repo: The-Ten-Pleasures-of-Marriage--13-and-the-Second-Part-The-Confession-of-the-New-Married-Coupl__13872
+_version: 0.1.0
+contributor:
+  dubious_author:
+    agent_name: Behn, Aphra
+    aliases:
+    - Behn, Ayfara
+    - Behn, Aphara
+    - Behn, Afra
+    - Behn, Anne
+    - Bhen, A. (Aphra)
+    - Behn, Aphra Amis
+    - Johnson, Aphra
+    birthdate: 1640
+    deathdate: 1689
+    gutenberg_agent_id: '2728'
+    url: http://www.gutenberg.org/2009/agents/2728
+    wikipedia: http://en.wikipedia.org/wiki/Aphra_Behn
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marsh, A.
+    gutenberg_agent_id: '5264'
+    url: http://www.gutenberg.org/2009/agents/5264
+  editor:
+    agent_name: Harvey, John
+    alias: Харви, Джон
+    birthdate: 1938
+    gutenberg_agent_id: '37789'
+    url: http://www.gutenberg.org/2009/agents/37789
+description: Attributed to Aphra Behn
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2004-10-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13872'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Marriage'
+- !lcc 'HQ'
+title: "The Ten Pleasures of Marriage\r\nand the Second Part, The Confession of the\
+  \ New Married Couple"
+url: http://www.gutenberg.org/ebooks/13872
