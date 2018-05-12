@@ -31,6 +31,8 @@ creator:
     gutenberg_agent_id: '37789'
     url: http://www.gutenberg.org/2009/agents/37789
 description: Attributed to Aphra Behn
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13872#The-Ten-Pleasures-of-Marriage--13-and-the-Second-Part-The-Confession-of-the-New-Married-Coupl_
 gutenberg_bookshelf: Humor
 gutenberg_issued: '2004-10-26'
 gutenberg_type: Text
